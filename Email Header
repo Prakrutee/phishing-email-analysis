@@ -1,0 +1,12 @@
+simulated this:
+
+email header:
+Return-Path: <amendes@gouv-france-secure.com>
+Received: from mail.gouv-france-secure.com ([192.0.2.10])
+Authentication-Results: spf=fail smtp.mailfrom=gouv-france-secure.com
+
+- SPF = fail → domain spoofing
+- Fake mail server
+- Country mismatch if you lookup IP
+
+Used MxToolbox Header Analyzer
