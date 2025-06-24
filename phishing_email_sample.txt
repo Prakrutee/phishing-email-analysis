@@ -1,0 +1,17 @@
+From: amendes@gouv-france-secure.com
+To: you@example.com
+Subject: Final Notice - Payment Required for Unpaid Traffic Fine
+
+Dear Citizen,
+
+Our records show that you have an unpaid traffic violation. Immediate payment is required to avoid legal consequences.
+
+Details of the infraction and payment can be found below:
+[Click here to pay now](https://re-amendes-gouv.com/as.php)
+
+Failure to complete this payment within 48 hours will result in a fine increase and legal processing.
+
+Sincerely,  
+Government of France - Traffic Fines Department
+
+Note: This is an automated email. Please do not reply.
