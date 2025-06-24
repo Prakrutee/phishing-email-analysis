@@ -6,8 +6,7 @@ This project contains a phishing email sample analysis using a real URL reported
 - `phishing_email_sample.txt`: Simulated email text
 - `phishing_analysis_report.md`: Full analysis of phishing characteristics
 - `headers_simulated.txt`: Fake headers for educational use
-- `screenshots/`: (Optional) Proof from VirusTotal, header tools, etc.
-
+  
 ## Tools Used
 - VirusTotal
 - MxToolbox
